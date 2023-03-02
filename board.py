@@ -1,5 +1,5 @@
-from dot import Dot
-from myexceptions import BoardWrongShipException, BoardOutException, BoardUsedException
+from dot import *
+from myexceptions import *
 
 
 class Board:

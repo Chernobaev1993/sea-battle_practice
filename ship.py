@@ -1,4 +1,4 @@
-from dot import Dot
+from dot import *
 
 
 class Ship:

@@ -1,7 +1,7 @@
 from random import randint
-from dot import Dot
+from dot import *
 
-from myexceptions import BoardException
+from myexceptions import *
 
 
 class Player:

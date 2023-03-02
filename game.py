@@ -1,9 +1,9 @@
-from board import Board
-from ship import Ship
-from random import randint
-from dot import Dot
-from myexceptions import BoardWrongShipException
-from player import AI, User
+from board import *
+from ship import *
+from random import *
+from dot import *
+from myexceptions import *
+from player import *
 
 
 def greet():
